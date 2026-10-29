@@ -1,4 +1,4 @@
-Library Management System in C
+Library Management System in (c)
 
 A beginner-friendly, menu-driven Library Management System built using C programming.
 
@@ -12,7 +12,7 @@ Features
 
 Concepts Used
 
-- Structures ("struct")
+- Structures ("struct") 
 - Functions
 - Loops and conditional statements
 - File handling
